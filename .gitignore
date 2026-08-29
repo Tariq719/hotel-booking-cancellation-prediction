@@ -224,3 +224,9 @@ __marimo__/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Trained machine learning models
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.keras
