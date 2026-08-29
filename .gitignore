@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large trained machine learning model files
+*.pkl
+*.joblib
+
+# Operating system files
+.DS_Store
+Thumbs.db
